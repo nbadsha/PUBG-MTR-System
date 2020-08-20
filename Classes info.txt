@@ -1,0 +1,9 @@
+Player
+-> Real Name
+-> Game Name
+-> Character ID
+-> Whatsapp Number
+-> Payment Method
+	->Payment ID
+-> Team Name
+-> Designation
